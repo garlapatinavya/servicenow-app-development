@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366665_sindu_log_incident" sizeclass="10" type="collection">
+        <element label="Affected" max_length="32" name="affected" reference="alm_asset" reference_qual="install_status=2^EQ" reference_qual_condition="install_status=2^EQ" type="reference"/>
+        <element default="default" label="p2" max_length="100" name="p2" type="string"/>
+        <element default="62826bf03710200044e0bfc8bcbe5df1" label="Qwe" mandatory="true" max_length="32" name="qwe" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="req date" max_length="100" name="req_date" type="glide_date"/>
+        <element label="return date" max_length="100" name="return_date" type="glide_date"/>
+        <element choice="1" label="sms" mandatory="true" max_length="100" name="sms" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="a" sequence="0" value="a"/>
+                <element inactive_on_update="false" label="b" sequence="1" value="b"/>
+                <element inactive_on_update="false" label="c" sequence="2" value="c"/>
+            </choice>
+        </element>
+        <element default="default" label="sr" max_length="100" name="sr" type="journal"/>
+        <element default="default" label="Sri" max_length="25" name="sri" type="string"/>
+        <element default="default doc" label="sri1" max_length="100" name="sri1" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

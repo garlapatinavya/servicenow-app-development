@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sms" table="x_366665_sindu_log_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>a</label>
+            <language>en</language>
+            <name>x_366665_sindu_log_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:32:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c525a298db4e3300ee790d53ca961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:32:52</sys_updated_on>
+            <value>a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>b</label>
+            <language>en</language>
+            <name>x_366665_sindu_log_incident</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:32:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4525a298db4e3300ee790d53ca961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:32:52</sys_updated_on>
+            <value>b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>c</label>
+            <language>en</language>
+            <name>x_366665_sindu_log_incident</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:32:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0125a298db4e3300ee790d53ca96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:32:52</sys_updated_on>
+            <value>c</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sms</element>
+            <name>x_366665_sindu_log_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:32:52</sys_created_on>
+            <sys_id>0125a298db4e3300ee790d53ca961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sms</sys_name>
+            <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+            <sys_update_name>sys_choice_x_366665_sindu_log_incident_sms</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:32:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
