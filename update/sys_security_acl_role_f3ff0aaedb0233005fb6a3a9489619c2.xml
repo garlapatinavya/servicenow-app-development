@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 05:46:49</sys_created_on>
+        <sys_id>f3ff0aaedb0233005fb6a3a9489619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366665_sindu_acl1.x_366665_sindu.acl1_user</sys_name>
+        <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+        <sys_security_acl display_value="x_366665_sindu_acl1">f7ff0aaedb0233005fb6a3a9489619bf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f3ff0aaedb0233005fb6a3a9489619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 05:46:49</sys_updated_on>
+        <sys_user_role display_value="x_366665_sindu.acl1_user" name="x_366665_sindu.acl1_user">b7ff06aedb0233005fb6a3a9489619fb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="incident report">129fb9dedb4a33005fb6a3a9489619bd</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-17 09:56:41</sys_created_on>
+        <sys_id>969fb9dedb4a33005fb6a3a9489619bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>129fb9dedb4a33005fb6a3a9489619bd</sys_name>
+        <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+        <sys_update_name>sys_report_users_groups_969fb9dedb4a33005fb6a3a9489619bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-17 09:56:41</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

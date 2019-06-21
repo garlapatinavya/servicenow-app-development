@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_d" label="D" language="en" table="x_366665_sindu_sriindu">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_d</element>
+            <help/>
+            <hint/>
+            <label>D</label>
+            <language>en</language>
+            <name>x_366665_sindu_sriindu</name>
+            <plural>Ds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 06:33:37</sys_created_on>
+            <sys_id>af111152db0a33005fb6a3a94896193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>D</sys_name>
+            <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+            <sys_update_name>sys_documentation_x_366665_sindu_sriindu_u_d_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 06:33:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

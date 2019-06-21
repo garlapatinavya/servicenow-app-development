@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>ads</description>
+        <internal_name>ssffdd</internal_name>
+        <label_cache>[{"name":"76becdcf-c1d9-4cee-8616-ffe6e738e9ab.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"76becdcf-c1d9-4cee-8616-ffe6e738e9ab.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"82f0ca87-221d-45a0-af12-782d6f08f61f.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request Records","type":"records","base_type":"records"},{"name":"82f0ca87-221d-45a0-af12-782d6f08f61f.Table","label":"1➛Request Table","reference":"sc_request","reference_display":"Request Table","type":"table_name","base_type":"table_name"},{"name":"82f0ca87-221d-45a0-af12-782d6f08f61f.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"ca6dcc36-791d-4677-9002-b38ea1194bb8.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request Record","type":"reference","base_type":"reference"},{"name":"84c86c91-1d44-46a9-b5d1-c84c97a4afcb.record","label":"2.1➛Request Record","reference":"sc_request","reference_display":"Request Record","type":"reference","base_type":"reference"},{"name":"84c86c91-1d44-46a9-b5d1-c84c97a4afcb.table_name","label":"2.1➛Request Table","reference":"sc_request","reference_display":"Request Table","type":"table_name","base_type":"table_name"},{"name":"1026c02e-1020-40c2-a0a1-6560adcc8a66.Records","label":"2.2➛Catalog Task Records","reference":"sc_task","reference_display":"Catalog Task Records","type":"records","base_type":"records"},{"name":"1026c02e-1020-40c2-a0a1-6560adcc8a66.Table","label":"2.2➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task Table","type":"table_name","base_type":"table_name"},{"name":"1026c02e-1020-40c2-a0a1-6560adcc8a66.Count","label":"2.2➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"9af1f70e-91b6-48e0-baaa-ec4cf4e34fc6.Records","label":"3➛Records","reference_display":"Records","type":"records","base_type":"records"},{"name":"9af1f70e-91b6-48e0-baaa-ec4cf4e34fc6.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"9af1f70e-91b6-48e0-baaa-ec4cf4e34fc6.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"9f722b25-a1be-4bd0-89df-407b5242fe58.Records","label":"2.2➛Records","reference_display":"Records","type":"records","base_type":"records"},{"name":"9f722b25-a1be-4bd0-89df-407b5242fe58.Table","label":"2.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"9f722b25-a1be-4bd0-89df-407b5242fe58.Count","label":"2.2➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"18611c32-3cf2-46bf-a5aa-e0f00f60aa18.Records","label":"2.2➛Records","reference_display":"Records","type":"records","base_type":"records"},{"name":"18611c32-3cf2-46bf-a5aa-e0f00f60aa18.Table","label":"2.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"18611c32-3cf2-46bf-a5aa-e0f00f60aa18.Count","label":"2.2➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"22ca62d3-db68-4b17-8cc1-505c15eb0858.Records","label":"3➛Task Records","reference":"task","reference_display":"Task Records","type":"records","base_type":"records"},{"name":"22ca62d3-db68-4b17-8cc1-505c15eb0858.Table","label":"3➛Task Table","reference":"task","reference_display":"Task Table","type":"table_name","base_type":"table_name"},{"name":"22ca62d3-db68-4b17-8cc1-505c15eb0858.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"bd597415-3467-49be-ba65-af0a197e4920.item","label":"4➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"},{"name":"80d1ad1d-b363-43e8-b4f6-a2f023ee7528.record","label":"4.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"80d1ad1d-b363-43e8-b4f6-a2f023ee7528.table_name","label":"4.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Updated_1.current.manager","label":"Trigger➛User Record➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>ssffdd</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:40:38</sys_created_on>
+        <sys_id>aa5be5afdb0233005fb6a3a94896196a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ssffdd</sys_name>
+        <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+        <sys_update_name>sys_hub_flow_aa5be5afdb0233005fb6a3a94896196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:31</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa5be5afdb0233005fb6a3a94896196a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=aa5be5afdb0233005fb6a3a94896196a"/>
+</record_update>

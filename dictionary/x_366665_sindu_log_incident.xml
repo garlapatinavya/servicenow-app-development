@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="log incident" max_length="40" name="x_366665_sindu_log_incident" sizeclass="10" type="collection">
+    <element extends="task" label="log incident" max_length="40" name="x_366665_sindu_log_incident" type="collection">
         <element label="Affected" max_length="32" name="affected" reference="alm_asset" reference_qual="install_status=2^EQ" reference_qual_condition="install_status=2^EQ" type="reference"/>
         <element default="default" label="p2" max_length="100" name="p2" type="string"/>
         <element default="62826bf03710200044e0bfc8bcbe5df1" label="Qwe" mandatory="true" max_length="32" name="qwe" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>

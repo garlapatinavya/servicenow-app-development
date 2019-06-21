@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sample for update" max_length="40" name="x_366665_sindu_sample_for_update" type="collection">
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

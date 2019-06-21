@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Identifies the remote instance selected as the current parent for Team Development</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>true</is_private>
+        <name>glide.apps.hub.current</name>
+        <read_roles/>
+        <suffix>x_366665_sindu</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 08:14:36</sys_created_on>
+        <sys_id>fd9e4a2bdb8233005fb6a3a94896198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.apps.hub.current</sys_name>
+        <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+        <sys_update_name>sys_properties_fd9e4a2bdb8233005fb6a3a94896198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 08:14:36</sys_updated_on>
+        <type>string</type>
+        <value>36fa35536f415640869e7b2f5d3ee449</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd9e4a2bdb8233005fb6a3a94896198f"/>
+</record_update>

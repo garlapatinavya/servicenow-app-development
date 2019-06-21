@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="ssffdd">aa5be5afdb0233005fb6a3a94896196a</flow>
+        <order>4.1</order>
+        <parent_ui_id>bd597415-3467-49be-ba65-af0a197e4920</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:27:32</sys_created_on>
+        <sys_id>9d16f12bdb4233005fb6a3a94896191f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="sindu" source="x_366665_sindu">74dbf198dbca3300ee790d53ca9619ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu">74dbf198dbca3300ee790d53ca9619ee</sys_scope>
+        <sys_update_name>sys_hub_action_instance_9d16f12bdb4233005fb6a3a94896191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:32</sys_updated_on>
+        <ui_id>80d1ad1d-b363-43e8-b4f6-a2f023ee7528</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=9d16f12bdb4233005fb6a3a94896191f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9d16f12bdb4233005fb6a3a94896191f</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:27:32</sys_created_on>
+        <sys_id>1516f12bdb4233005fb6a3a948961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:32</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9d16f12bdb4233005fb6a3a94896191f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:27:32</sys_created_on>
+        <sys_id>5116f12bdb4233005fb6a3a948961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:32</sys_updated_on>
+        <value>assigned_to={"display":"Abel Tuter","value":"62826bf03710200044e0bfc8bcbe5df1"}</value>
+        <variable display_value="">e7d270ccc3c632002841b63b12d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=9d16f12bdb4233005fb6a3a94896191f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>9d16f12bdb4233005fb6a3a94896191f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:27:32</sys_created_on>
+        <sys_id>1d16f12bdb4233005fb6a3a948961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:32</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{bd597415-3467-49be-ba65-af0a197e4920.item}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>9d16f12bdb4233005fb6a3a94896191f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:27:32</sys_created_on>
+        <sys_id>5916f12bdb4233005fb6a3a948961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:32</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>9d16f12bdb4233005fb6a3a94896191f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:27:32</sys_created_on>
+        <sys_id>dd16f12bdb4233005fb6a3a948961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:32</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
